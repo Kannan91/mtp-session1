@@ -3,6 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: mtp-session1
-  host: mtp-session1
+  name: kannann1_bluemixapp
+  host: kannann1-bluemixapp
   disk_quota: 1024M
